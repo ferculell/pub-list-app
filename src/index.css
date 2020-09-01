@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background-color: rgb(195, 240, 235);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#logo {
+  padding: 40px;
+}
+
+#title {
+  padding: 60px;
+}
+
+#appheader {
+  font-family: 'Fredoka One', cursive;
+}
+
+#appheader h1 {
+  color: orangered;
+}
+
+#appheader h3 {
+  color: rgb(255, 127, 80);
+}
