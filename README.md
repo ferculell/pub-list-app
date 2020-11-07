@@ -1,3 +1,9 @@
+# Publications List App
+
+A simple web app that calls an API and shows the retrieved info. Developed using React Hooks. Deployment made with Firebase, available on: https://pub-list-app.web.app/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
